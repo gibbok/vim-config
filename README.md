@@ -1,4 +1,4 @@
-# Vim configurations
+# Vim configuration
 
 Install: [The Ultimate vimrc](https://github.com/amix/vimrc).
 
