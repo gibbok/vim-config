@@ -1,4 +1,5 @@
-" install https://github.com/amix/vimrc
+" set os clipboard
+set clipboard=unnamed
 
 " map escape using jj
 :imap jj <Esc>
@@ -9,8 +10,5 @@ nnoremap zz :update<cr>
 " open nerdtree
 autocmd VimEnter * NERDTree
 
-" map NERDTree to shortcut 
+" map nerdtree to shortcut 
 map <C-n> :NERDTreeToggle<CR>
-
-" set os clipboard
-set clipboard=unnamed
